@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Calendar.git/static/css/main.a91b10b5.css",
+    "main.js": "/Calendar.git/static/js/main.9cc4d025.js",
+    "static/media/RubikMoonrocks-Regular.ttf": "/Calendar.git/static/media/RubikMoonrocks-Regular.84657e02b3f3f9863013.ttf",
+    "index.html": "/Calendar.git/index.html",
+    "main.a91b10b5.css.map": "/Calendar.git/static/css/main.a91b10b5.css.map",
+    "main.9cc4d025.js.map": "/Calendar.git/static/js/main.9cc4d025.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a91b10b5.css",
+    "static/js/main.9cc4d025.js"
+  ]
+}
